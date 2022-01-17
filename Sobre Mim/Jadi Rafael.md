@@ -11,4 +11,4 @@
 ### Educacional
 
 ##### Desde os 14 anos realizei cursos na área de eletroeletrônica, sendo 2 anos de jovem aprendiz, 2 anos de técnico, alguns cursos complementares e desde 2017 cursando faculdade de bacharelado de engenharia elétrica.
-##### No ano de 2021, senti muita vontade de aprender sobre a área de TI, pois sempre gostava de ouvir meus amigos que trabalham na área falando sobre, e busquei entender como funcionava e me apaixonei pela área de back-end. Hoje, quero pode vivenciar o sonho de conseguir trabalhar nesta área que tanto me identifiquei.
+##### No ano de 2021, senti muita vontade de aprender sobre a área de TI, pois sempre gostava de ouvir meus amigos que trabalham na área falando sobre e busquei entender como funcionava e me apaixonei pela área de back-end. Hoje, quero poder vivenciar o sonho de conseguir trabalhar nesta área que tanto me identifiquei.
